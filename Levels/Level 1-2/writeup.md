@@ -87,4 +87,4 @@ Both `cat ./-` and `cat < -` are valid solutions.
 
 ---
 
-*Writeup by [yesshhaa](https://github.com/yesshhaa) — OverTheWire Bandit Series*
+
