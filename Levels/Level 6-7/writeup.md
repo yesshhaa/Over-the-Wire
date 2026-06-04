@@ -30,7 +30,6 @@ ls
 ls -la
 ```
  
-![Empty home directory](images/level6-homedir.png)
  
 ## Solution
  
